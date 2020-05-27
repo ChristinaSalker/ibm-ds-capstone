@@ -7,7 +7,7 @@ Skin Lesion Type Classification using the HAM10000 dataset
 
 According to the [WHO](https://www.who.int/news-room/q-a-detail/ultraviolet-(uv)-radiation-and-skin-cancer), currently, between 2 and 3 million non-melanoma skin cancers and 132,000 melanoma skin cancers occur globally each year. One in every three cancers diagnosed is a skin cancer and, according to Skin Cancer Foundation Statistics, one in every five Americans will develop skin cancer in their lifetime.
 
-If skin cancer is left untreated, it can metastasize and spread to other organs across the body, becoming a life-threatening condition. Early detection of skin cancer can make all the difference and save lifes.
+If skin cancer is left untreated, it can metastasize and spread to other organs across the body, becoming a life-threatening condition. Early detection of skin cancer can make all the difference and save lives.
 
 ## Introduction to the Dataset
 
